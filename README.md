@@ -5,6 +5,9 @@ This can be used for making save files that are screenshots of the players curre
 ## Overview
 To get setup and using the LSBEncoder you only need to grab the [LSBEncoder.cs](https://raw.githubusercontent.com/JamesAaronJohnson/LSB_Encoder_Unity/master/Assets/Code/LSBEncoder.cs) file from here and put into your project.
 To see an example of how it works, clone this repo and check out the example scene and test component to get a feel for it.
+
+For the documentation and reference of the LSBEncoder class please check out the [LSBEncoder Reference](https://github.com/JamesAaronJohnson/LSB_Encoder_Unity/wiki/LSBEncoder-Reference) on the wiki.
+
 To get up and running with the encoder check out the basic examples below.
 
 ### Encoding An Image
