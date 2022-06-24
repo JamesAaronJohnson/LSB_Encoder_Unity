@@ -2,8 +2,6 @@
 A simple Least Significant Bit encoder/decoder for storing information into PNG's using Unity's Texture2D. 
 This can be used for making save files that are screenshots of the players current location, making mods or levels that are shared with just the image or even for sharing character creator properties using images of the characters themselves.
 
-This Repo's source code is subject to the terms of the Mozilla Public License.
-
 ## Overview
 To get setup and using the LSBEncoder you only need to grab the [LSBEncoder.cs](https://raw.githubusercontent.com/JamesAaronJohnson/LSB_Encoder_Unity/master/Assets/Code/LSBEncoder.cs) file from here and put into your project.
 To see an example of how it works, clone this repo and check out the example scene and test component to get a feel for it.
